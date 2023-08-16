@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siropaca&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siropaca&theme=solarized)
