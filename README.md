@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siropaca&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siropaca&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siropaca&theme=solarized)
@@ -10,8 +8,6 @@
 
 <!--START_SECTION:lapras-card-->
 <!--END_SECTION:lapras-card-->
-
-</div>
 
 <!--
 **siropaca/siropaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
