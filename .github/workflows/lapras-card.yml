@@ -18,10 +18,10 @@ jobs:
           BACKGROUND_FIRST: "#020E27"
           BACKGROUND_SECOND: "#0E5593"
           LANG: "en"
+          UPDATE_TIME: "false"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
           # README_FILE: "README.md"
           # IS_CENTER: "true"
           # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
