@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "https://lapras.com/public/AFFSAM5"
+          SHARE_ID: "AFFSAM5"
           ICON_FIRST: "#030E21"
           ICON_SECOND: "#1688BF"
           BACKGROUND_FIRST: "#020E27"
