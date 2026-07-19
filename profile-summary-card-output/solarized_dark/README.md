@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/siropaca/siropaca/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+```
+
+    
